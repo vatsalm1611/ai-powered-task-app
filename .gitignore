@@ -1,0 +1,25 @@
+/node_modules
+.env
+client/build/
+build/
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Misc
+combined_code_base.txt
+coverage/
+.cache/
+.parcel-cache/
